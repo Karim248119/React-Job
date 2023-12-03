@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "jobs",
+    "slug": "jobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "73bb8035-68ed-4efa-9659-2ada4249301c"
+      }
+    }
+  }
+}
